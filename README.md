@@ -5,5 +5,5 @@
 - I used Qtdesigner to design an UI and developed it with the PyQt5 framework.
 
 ## Demo
-This is a demo video for our project.
+This is a demo video for my project.
 Link: https://youtu.be/oVwTG2k_YpI
